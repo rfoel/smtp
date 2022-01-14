@@ -1,0 +1,17 @@
+{
+  "name": "smtp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "mailparser": "^3.4.0",
+    "smtp-server": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rafael Franco",
+  "license": "ISC"
+}
